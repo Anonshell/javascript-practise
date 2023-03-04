@@ -17,4 +17,4 @@
 
 
 const result = add2(2,3);
-console.log(result);
+console.log(result); 
